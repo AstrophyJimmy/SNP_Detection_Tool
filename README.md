@@ -10,3 +10,6 @@ Please be sure of the following for the tool to work correctly,
 1. click "Open in Playground".
 2. from the upper taskbar choose "Runtime" > "Run All".
 3. Choose files in the output of the third cell.
+
+
+# Contact me for further details
