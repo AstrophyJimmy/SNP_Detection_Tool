@@ -1,5 +1,5 @@
 # Customizable SNP Detection Tool
-This tool reads two fasta files containing the same genomic sequence length and returns the SNPs detected in them. 
+This open source tool reads two fasta files containing the same genomic sequence length and returns the SNPs detected in them. 
 Please be sure of the following for the tool to work correctly, 
 1. upload only 2 files, and the original sequence file should have the string 'seq' in it and the query doesn't.
 2. be sure that both sequences are of equal length.
